@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrKaliC
-- 👀 I’m interested in Java, Python, Hacking
+- 👀 I’m interested in Java, Python, Hacking,  HTML,CSS
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
